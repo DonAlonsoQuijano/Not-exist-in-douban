@@ -24,6 +24,7 @@
 |十個詞彙裡的中國|麥田|余華|9789861204772
 |姜文的前世今生：鬼子來了|新銳文創|啓之|9789866094101
 |暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
+|自由的窄廊：國家與社會如何決定自由的命運（*The Narrow Corridor: States, Societies, and the Fate of Liberty*）|衛城|戴倫．艾塞默魯（Daron Acemoglu）、詹姆斯．羅賓森（James A. Robinson）、譯者：劉道捷|9789869681735
 |[永久记录](https://book.douban.com/subject/34862375/)（永久檔案*Permanent Record*）|民主与建设出版社（時報出版）|Edward Snowden、译者：萧美惠、郑胜得|[9787513927277](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)（9789571379531）
 |牆國誌：中國如何控制網路（*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*）|遊擊文化（Zed Books）|James Griffiths、譯者：李屹|9789869762786（[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)）
 |抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
@@ -50,6 +51,7 @@
 |中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
 |中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
 |[武漢封城日記](https://book.douban.com/subject/34988327/)|聯經|郭晶|9789570854985
+|百年大疫：COVID-19疫情全紀錄|印刻|中央通訊社|9789863873556
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
 |一滴淚：從肅反到文革的回憶（*A Single Tear*）|允晨文化|巫宁坤|9789867178398
 |暴風雨中一羽毛：動亂中失去的童年|明報出版社|巫一毛|9789628958245
@@ -327,16 +329,20 @@
 |香港：破局與困局（思想40）|聯經|思想編輯委員會 編|9789570855432
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
+|香港動盪：法與治的歷史與文化解讀|香港大學|吳海傑、王迪安 編|[9789888528301](https://www.goodreads.com/book/show/53955034)
 |民現：在後佔領時代思考城市民主（*The Appearing Demos: Hong Kong During and After the Umbrella Movement*）|手民（University of Michigan Press）|彭麗君（Pang Laikwan）、譯者：李祖喬|9789887416135（9780472131785）
 |天愈黑，星愈亮──反修例運動的人和事|突破|譚蕙芸|9789888562220
+|文字欲：回應時代的特寫新聞|香港中文大學|譚蕙芸|9789882371248
 |香港第一課|春山出版|梁啓智|9789869849760
 |陳健民獄中書簡|進一步多媒體有限公司|陳健民|9789888011650
 |審判愛與和平：雨傘運動陳詞||陳健民|https://lettersfromprisonhk.com/products/審判愛與和平-雨傘運動陳詞
-|2019 香港風暴——《端傳媒》反修例運動報導精選|春山出版|端傳媒|9789869849777
-|潮湧——香港反修例運動影像紀錄|端傳媒出版|端傳媒|9789887993322
-|烈火黑潮： 城市戰地裡的香港人（隨書附贈「爆眼少女」手繪海報）|左岸文化|李雪莉、楊智強、陳怡靜|9789869865609
-|自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
-|反送中攝影集：我願榮光歸香港|台灣：奇異果文創事業有限公司|藝家, 天爸, Joey Kwok, Nasha Chan, 林健恆@USP, 香港理工大學學生會學生報編輯委員會|9789869759182
+|抗命的倫理|花千樹|陳健民|[9789888265367](https://www.goodreads.com/book/show/25798119)
+|2019 香港風暴——《端傳媒》反修例運動報導精選|春山出版|端傳媒|[9789869849777](https://www.goodreads.com/book/show/51850747-2019)
+|潮湧——香港反修例運動影像紀錄|端傳媒出版|端傳媒|[9789887993322](https://www.goodreads.com/book/show/52907697)
+|烈火黑潮： 城市戰地裡的香港人（隨書附贈「爆眼少女」手繪海報）|左岸文化|李雪莉、楊智強、陳怡靜|[9789869865609](https://www.goodreads.com/book/show/51095341)
+|自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|[9789578924697](https://www.goodreads.com/book/show/49350197-2019)
+|六月危城|衆新聞|李立峯、徐緣、李鴻彥、劉進圖、麥燕庭、楊健興、安裕和在前線採訪的眾新聞記者等|[9789887813620](https://www.goodreads.com/book/show/52397198)
+|反送中攝影集：我願榮光歸香港|台灣：奇異果文創事業有限公司|藝家, 天爸, Joey Kwok, Nasha Chan, 林健恆@USP, 香港理工大學學生會學生報編輯委員會|[9789869759182](https://www.goodreads.com/book/show/52397043)
 |思索家邦：中國殖民主義狂潮下的香港|前衛|徐承恩|9789578018945
 |佔領論：從巴黎公社到佔領中環|圓桌精英|許煜|[9789881545350](https://www.academia.edu/7468965/佔領論_從巴黎公社到佔領中環)
 |二十道陰影下的自由：香港新聞審查日常|香港中文大學|區家麟|9789629967703
@@ -344,6 +350,13 @@
 |國際視野中的香港修例風波|新民主出版社|編輯委員會 編|9789623360159
 |香港獨立論|香港專業研習學會|梁衍華|[9789881483027](https://www.goodreads.com/book/show/41722273)
 |香港民族論|香港大學學生會|梁繼平、王俊傑、曹曉諾、李啟迪、吳叡人、練乙錚、孔誥烽、徐承恩、蘇賡哲|[9789881363107](https://www.goodreads.com/book/show/24681152)
+|我不是英雄：黃之鋒政論集|明窗|黃之鋒|[9789888206735](https://www.goodreads.com/book/show/26190198)
+|*Unfree Speech: The Threat to Global Democracy and Why We Must Act, Now*|Penguin|Joshua Wong, Jason Y. Ng|[9780753554791](https://www.goodreads.com/book/show/49964359-unfree-speech)
+|自由係... 反送中運動「夢境」記錄|白卷|同路人|[9789887904496](https://www.goodreads.com/book/show/52003037)
+|香港人2.0：事件尚未結束，進化已經完成|真哪噠|邢福增、羅秉祥、余震宇|[9789869777858](https://www.goodreads.com/book/show/52907453-2-0)
+|被消失的香港|蓋亞|柳廣成|9789863194927
+|元朗黑夜：我的記憶和眾人的記憶|柳俊江|柳俊江|9789887493044
+|消失了的連儂牆（增訂版）|以賽亞|愛護香港的人|[9789881444615](https://www.goodreads.com/book/show/50875644)
 |城邦主權論|四筆象|陳雲|9789629923914
 |香港城邦論|天窗|陳雲|9789881550415
 |香港革新論|台灣：漫遊者文化|方志恆 編|9789865671556
@@ -360,8 +373,11 @@
 |雨傘運動之香港大撕裂|Hong Kong New Media|蕭若元|上：9789881595201、下：9789881417602
 |傘聚|天窗|區家麟|9789888292387
 |每一把傘|有種文化|李鴻彦、馬丁（Martin）|9789881345486
+|我們的價值：香港雨傘運動紀實|有種文化|馬丁 Martin|[9789881345493](https://www.goodreads.com/book/show/29323899---witness)
 |傘下力量|人民力量出版部|陳偉業 編|9789881417619
 |中國孤兒‧香港人|四筆象|桑普|9789629924317
+|香港覺醒：2019，歷史的里程碑|升出版|李怡|[9789887822226](https://www.goodreads.com/book/show/53761136-2019)
+|香港思潮：本土意識的興起與爭議|廣宇|李怡|[9781922210012](https://www.goodreads.com/book/show/23587888)
 |革命|四筆象|林匡正|9789629924287
 |獨立|四筆象|林匡正|9789629924294
 |香港抗爭運動史|四筆象|林匡正|9789629923518
@@ -388,6 +404,7 @@
 |有些醜陋的香港人|白卷出版社|傘下的人、木、心、黎明、E君、陳煩、李由之、何沛鈞、梁翊婷、wingkykwong|9789887904304
 |有冇人熱烈慶祝香港回歸祖國二十年|白卷出版社|傘下的人|9789887711889
 |我們的最後進化|一人出版社|傘下的人|9789869795135
+|*Rebel City: Hong Kong's Year of Water and Fire*|World Scientific Publishing Co and South China Morning Post Publishers Limited|South China Morning Post Team, Zuraidah Ibrahim & Jeffie Lam (EDT)|9789811218606
 |*City of Protest: A Recent History of Dissent in Hong Kong*|Penguin Random House Australia|Antony Dapiran|9780734399625
 |*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
 |*China’s Influence and the Centre-periphery Tug of War in Hong Kong, Taiwan and Beyond*|Routledge|Edited by Brian C. H. Fong, Jieh-min Wu, Andrew J. Nathan|9780367533564
@@ -396,14 +413,15 @@
 |百年追求：臺灣民主運動的故事 卷二 自由的挫敗|衛城|吳乃德|9789868962644
 |百年追求：臺灣民主運動的故事 卷三 民主的浪潮|衛城|胡慧玲|9789868962651
 |為什麼要佔領街頭？從太陽花、雨傘，到反送中運動（*Challenging Beijing's Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement*）|左岸文化（Temple University Press）|何明修（Ming-sho Ho）|9789869800648（9781439917060）
-|[台灣一黨獨裁體制的建立（台湾における一党独裁体制の成立）](https://book.douban.com/subject/20400958/) | 政大 |松田康博、譯者：黃偉修| 9789869830430
+|[台灣一黨獨裁體制的建立（台湾における一党独裁体制の成立）](https://book.douban.com/subject/20400958/)|政大|松田康博、譯者：黃偉修|9789869830430
 |蔣介石與現代中國的奮鬥（*The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*）|時報|陶涵（Jay Taylor）、譯者：林添貴|9789571351728
-|意外的國父：蔣介石、蔣經國、李登輝與現代臺灣|八旗文化 |汪浩|9789869486507（新版 9789865524166）
-|借殼上市：蔣介石與中華民國臺灣的形塑|八旗文化 |汪浩|9789865524159
-|本刊文責一律由總編輯鄭南榕負責：《自由時代》雜誌編輯室報告文選|逗點文創結社 |鄭南榕 | 9789869817073
+|意外的國父：蔣介石、蔣經國、李登輝與現代臺灣|八旗文化|汪浩|9789869486507（新版 9789865524166）
+|借殼上市：蔣介石與中華民國臺灣的形塑|八旗文化|汪浩|9789865524159
+|本刊文責一律由總編輯鄭南榕負責：《自由時代》雜誌編輯室報告文選|逗點文創結社|鄭南榕|9789869817073
 |民主台灣：後威權時代的社會運動與文化政治|香港中文大學|莊雅仲|9789629965921
 |台灣的中國兩難：台灣認同下的兩岸經貿困境（*Taiwan’s China Dilemma: Contested Identities and Multiple Interests in Taiwan’s Cross-Strait Economic Policy*）|商周出版|林夏如（Syaru Shirley Lin）、譯者：陳方隅、林添貴|9789864776290
-|記憶與遺忘的鬥爭：臺灣轉型正義階段報告|衛城|臺灣民間真相與和解促進會 |9789869211307
+|潛龍與禿鷹的文明對抗：共構文化中國，兩岸和平是唯一解方|時報|黃光國|9789571383378
+|記憶與遺忘的鬥爭：臺灣轉型正義階段報告|衛城|臺灣民間真相與和解促進會|9789869211307
 |台灣獨立運動史|玉山|陳佳宏|9867375785
 |太陽花之後（思想27）|聯經|思想編輯委員會|9789570844993
 |學運世代：從野百合到太陽花（全新增訂版）|時報|何榮幸|9789571360188
@@ -648,6 +666,7 @@
 |父親金正日與我: 金正男獨家告白|新世紀|五味洋治|9789881557049
 |真实的朝鲜|天津教育出版社|叶永烈|9787530951330
 |我與中共和柬共 赤色華人解秘：柬共如何興亡 (第二版)|田園書屋|周德高 筆述、朱學淵 撰寫|9623390688
+|印太競逐：美中衝突的前線，全球戰略競爭新熱點（*Contest for the Indo-Pacific: Why China Won’t Map the Future*）|商周|羅里•梅卡爾夫（Rory Medcalf）、譯者：李明|9789864779048
 |無聲的入侵：中國因素在澳洲（*Silent Invasion: China’s Influence in Australia*）|左岸文化|克萊夫．漢密爾頓（Clive Hamilton）、譯者：江南英|9789865727833
 |大熊貓的利爪：中國如何滲透、影響與威嚇加拿大（*Claws of the Panda: Beijing’s Campaign of Influence and Intimidation in Canada*）|左岸文化|文達峰（Jonathan Manthorpe）、譯者：王湘瑋|9789869865630
 |全球只剩北京標準時間：中國正以金援、國民觀光、駭客、貓熊、收購和影城……根本不用出兵，不知不覺主宰了全世界和你的日常。（*Il est midi à Pékin*）|大是文化|艾利克．寇爾（Éric Chol）、吉勒．峰丹（Gilles Fontaine）、譯者：黃明玲|9789579654975
@@ -660,6 +679,7 @@
 |習近平是如何成為一位超級政治強人的？：對一場柔性政變的持續觀察|新銳文創|白信|9789578924338
 |中國教父習近平|開放（前衛）|余杰|9789627934332（9789578017399）
 |走向帝制：習近平與他的中國夢|前衛|余杰|9789578017931
+|習近平：喪屍治國|主流|余杰|9789869860918
 |薄王敗局與十八大：核心文件、爭議性文獻匯編|溯源|信息自由觀察工作室|9781921815331
 |薄熙來周永康謎局與十八大：重慶事變核心文件、爭議性文獻續編|溯源|信息自由觀察工作室|9781921815324
 |河蟹大帝胡錦濤：他讓中國失去了十年|晨鐘（亞太政治哲學文化）|余杰|9789881620323（9789868971882）
@@ -992,6 +1012,7 @@
 |モンゴル人ジェノサイドに関する基礎資料：加害者に対する清算|風響社|楊海英|9784894898912
 |有關內蒙古人民革命黨的政府文件和領導講話|新銳文創|楊海英|上（9789865540036）下（9789865540043）
 |滕海清將軍有關內蒙古人民革命黨講話集|新銳文創|楊海英|上（9789578924994）中（9789865540005）下（9789865540012）
+|挖內蒙古人民革命黨歷史證據和社會動員|新銳文創|楊海英|上（9789865540098）下（9789865540104）
 |*On the Cultural Revolution in Tibet: The Nyemo Incident of 1969*|University of California Press|Melvyn C. Goldstein、Ben Jiao、Tanzen Lhundrup|9780520256828 
 |在如來佛掌中（增訂版）：張東蓀和他的時代|香港中文大學|戴晴|9789882370098
 |陈伯達遺稿: 獄中自述及其他|天地圖書|陈伯达、陈晓农|
@@ -1191,6 +1212,7 @@
 |中共興亡史 第二卷：由上海到武漢|帕米爾出版社|鄭學稼|9786686831121
 |中國共產主義運動史|政大出版社|鄭學稼|一：9789869735599、二：9789869830409、三：9789869830416、四：9789869830423
 |[*Finding Allies and Making Revolution: The Early Years of the Chinese Communist Party*](https://book.douban.com/subject/35098820/)|Brill|Tony Saich|9789004423442
+|支那革命的真相：來自日本的視角與立場|八旗文化|北一輝、譯者：董炯明、王敬翔|9789578654808
 |太平杂说|百花文艺出版社|潘旭澜|9787530618691
 |盜賊史觀下的中國：從劉邦、朱元璋到毛澤東的盜賊皇帝史（中國の大盜賊）|八旗文化|高島俊男（たかしま としお）、譯者：張佑如|9789869457255
 |不受歡迎的中國人|開放|陳破空|9789627934437
@@ -1237,6 +1259,9 @@
 |萬縷神恩眷此生：基督與生命系列訪談錄 第三卷|雅歌|余杰|9789868637931
 |誰為神洲理舊疆：中國信仰重建與社會轉型|雅歌|余杰|9789868637917
 |用常識治國：右派商人川普的當國智慧|八旗文化|余杰|9789578654891
+|川普向右，習近平向左|主流|余杰|9789869860932
+|病毒、謊言、大外宣：中國造假如何毀滅全世界|前衛|余杰|9789578019188
+|暗黑民國史：兩岸歷史課本刻意迴避的空白30年|大是文化|余杰|9789579654791
 |誰是新中國：中國現代史辨（*Which is the New China: Distinguishing between Right and Wrong in Modern Chinese History*）|夏菲爾（Blue Sky Publishing House）|辛灝年|9789881589354（0966609506）
 |中國命運與臺灣前途：辛灝年講演錄|博大|辛灝年|9789868897694
 |最後的侮辱|博大|辛灝年|9789868897663
@@ -1254,3 +1279,4 @@
 ### 参考资料
 
 1. [那些在豆瓣上消失的书](http://cul.qq.com/a/20151104/026086.htm)
+2. [Politics and Social Movements in Hong Kong](https://www.goodreads.com/list/show/145894.Politics_and_Social_Movements_in_Hong_Kong)
