@@ -5,6 +5,7 @@
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|返校（8集劇）|2020|蘇奕瑄、莊翔安、劉易|[Detention](https://www.ptsplus.tv/season/6eb09c1b-f7d0-4d3c-9b4e-bbbcca6422b1)
 |迷航|2019|李哲昕|[Lost Course](https://www.imdb.com/title/tt13236440/)
 |夜更|2020|郭臻|[Night Is Young](https://www.imdb.com/title/tt13237032/)
 |佔領立法會|2019|香港紀錄片工作者|[Taking back the Legislature](https://www.imdb.com/title/tt13236520/)
@@ -245,7 +246,6 @@
 |傘上：遍地開花|2018|梁思衆|Umbrella Diaries: The First Umbrella
 |撐傘|2016|陳耀成|[Raise the Umbrellas](https://www.imdb.com/title/tt6337076/)
 |分域大道|2018|杜浩綸（Matthew Torne）|[Last Exit to Kai Tak](https://www.imdb.com/title/tt8668616/)
-|迷航|2019|Jill Li|[Lost Course](https://www.viff.org/Online/2019-series-dragonsandtigers)
 |[自由行](https://movie.douban.com/subject/30197582/)|2018|应亮|[A Family Tour](https://www.imdb.com/title/tt8731042/)
 |我还有话要说|2012|应亮|[When Night Falls](https://www.imdb.com/title/tt2164662/)
 |大堡小劳教|2014|谢贻卉|[Juvenile Laborers Confined in Dabao](https://www.imdb.com/title/tt4406580/)
