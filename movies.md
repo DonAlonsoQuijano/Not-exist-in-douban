@@ -5,6 +5,9 @@
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|迷航|2019|李哲昕|[Lost Course](https://www.imdb.com/title/tt13236440/)
+|夜更|2020|郭臻|[Night Is Young](https://www.imdb.com/title/tt13237032/)
+|佔領立法會|2019|香港紀錄片工作者|[Taking back the Legislature](https://www.imdb.com/title/tt13236520/)
 |[V字仇杀队](http://movie.douban.com/subject/1309046/)|2005|James McTeigue（詹姆斯·麦克特格）|[V for Vendetta](https://www.imdb.com/title/tt0434409/)
 |光州錄影帶：消失的4小時（광주비디오: 사라진 4시간）|2020|李祖勳（이조훈）|
 |明成皇后（명성황후）|2004|申昌碩|[Empress Myeongseong](https://www.imdb.com/title/tt2288116/)
