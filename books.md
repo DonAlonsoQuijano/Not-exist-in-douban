@@ -305,12 +305,19 @@
 |金色的聖山（最新增訂版）|亞太政治哲學文化出版有限公司|袁紅冰|9789868971806
 |*Why the Dalai Lama is a Socialist: Buddhism and the Compassionate Society*|Zed Books|Terry Gibbs|9781783606450
 |*Xinjiang and the Modern Chinese State*|University of Washington Press|Justin M. Jacobs|9780295995656
+|*Uyghur Nation: Reform and Revolution on the Russia-China Frontier*|Harvard University Press|David Brophy|9780674660373
 |*The War on the Uyghurs: China's Internal Campaign against a Muslim Minority*|Princeton University Press|Sean R. Roberts|9780691202181
 |*The Uyghurs: Strangers in Their Own Land*|Columbia University Press|Gardner Bovingdon|9780231147583
 |*Autonomy in Xinjiang: Han Nationalist Imperatives and Uyghur Discontent*|East-West Center Washington|Gardner Bovingdon|[193272821X](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.624.9996&rep=rep1&type=pdf)
 |*Violent Separatism in Xinjiang: A Critical Assessment*|East-West Center Washington|James A. Millward|[1932728112](https://scholarspace.manoa.hawaii.edu/bitstream/10125/3502/PS006.pdf)
 |*Negotiating Inseparability in China The Xinjiang Class and the Dynamics of Uyghur Identity*|Hong Kong University Press|Timothy Grose|9789888528097
 |*The Ili Rebellion: The Moslem Challenge to Chinese Authority in Xinjiang, 1944-1949*|M. E. Sharpe|Linda Benson|9780873325097
+|*Securing China's Northwest Frontier: Identity and Insecurity in Xinjiang*|Cambridge University Press|David Tobin|9781108488402
+|*China's Forgotten People: Xinjiang, Terror and the Chinese State*|I.B. Tauris|Nick Holdstock|9781788319799
+|*Xinjiang and the Chinese State: Violence in the Reform Era*|Routledge India|Debasish Chaudhur|9780367345112
+|*Worse than Death: Reflections on the Uyghur Genocide*|Hamilton Books|Mamtimin Ala|9780761872290
+|*Made in China: A Prisoner, an SOS Letter, and the Hidden Cost of America’s Cheap Goods*|Algonquin Books|Amelia Pang|9781616209179
+|*Soviet Policy in Xinjiang: Stalin and the National Movement in Eastern Turkistan*|Lexington Books|Jamil Hasanli|9781793641267
 |東突厥斯坦獨立運動：1930年代至1940年代|香港中文大學出版社|王柯|9789629965006
 |躁動的新疆, 不安的維吾爾（*China's Forgotten People: Xinjiang, Terror and the Chinese State*）|光現出版|尼克·霍史達克（Nick Holdstock）、譯者：許庫爾|[9789869620246](https://www.goodreads.com/book/show/40949616)
 |我的西域，你的東土|大塊文化|王力雄|[9789862130117](https://www.goodreads.com/book/show/7906957)
@@ -410,9 +417,15 @@
 |有些醜陋的香港人|白卷出版社|傘下的人、木、心、黎明、E君、陳煩、李由之、何沛鈞、梁翊婷、wingkykwong|9789887904304
 |有冇人熱烈慶祝香港回歸祖國二十年|白卷出版社|傘下的人|9789887711889
 |我們的最後進化|一人出版社|傘下的人|9789869795135
+|*Propaganda, Media, and Nationalism in Mainland China and Hong Kong*|Lexington Books|Luwei Rose Luqiu|9781498573146
+|*Vigil: Hong Kong on the Brink*|Columbia Global Reports|Jeffrey Wasserstrom|9781733623742
 |*Rebel City: Hong Kong's Year of Water and Fire*|World Scientific Publishing Co and South China Morning Post Publishers Limited|South China Morning Post Team, Zuraidah Ibrahim & Jeffie Lam (EDT)|9789811218606
+|*Umbrella: A Political Tale from Hong Kong*|Pema Press|Kong Tsung-gan|9780997238532
+|*As long as there is resistance, there is hope: Essays on the Hong Kong freedom struggle in the post-Umbrella Movement era, 2014-2018*|Pema Press|Kong Tsung-gan|9780997238556
+|*Generation HK: Seeking Identity in China’s Shadow*|Penguin Australia|Ben Bland|9780734398505
 |*City of Protest: A Recent History of Dissent in Hong Kong*|Penguin Random House Australia|Antony Dapiran|9780734399625
 |*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
+|*Hong Kong on the Brink: An American Diplomat Relives 1967's Darkest Days*|Blacksmith Books|Syd Goldsmith|9789887792789
 |*China’s Influence and the Centre-periphery Tug of War in Hong Kong, Taiwan and Beyond*|Routledge|Edited by Brian C. H. Fong, Jieh-min Wu, Andrew J. Nathan|9780367533564
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
 |百年追求：臺灣民主運動的故事 卷一 自治的夢想（自治之夢：日治時期到二二八的臺灣民主運動）|衛城（春山）|陳翠蓮|9789868962637（9789869907255）
@@ -596,10 +609,14 @@
 |世界距離民主只有五天：一群中國少年的民主實驗|衛城|寇延丁|9789869889063
 |九一憶往|新世紀|于浩成|9789881329585
 |從王實味到劉曉波：中國當代文字獄囚徒編年錄(1947-2010年)(第一卷)|自由文化|張裕|9789868820425
+|紅旗下的十字架: 新中國成立初期中共對基督教、天主教的政策演變及其影響（1949-1955）|香港中文大學基督教中國宗教文化研究社|劉建平|9789627706304
+|我们的防火墙 : 网络时代的表达与监管|广西师范大学出版社|李永刚|9787563391066
 |*Censored: Distraction and Diversion Inside China's Great Firewall*|Princeton University Press|Margaret E. Roberts|(Hardcover 2018)9780691178868, (Paperback 2020)9780691204000
 |*Capitalism with Chinese Characteristics: Entrepreneurship and the State*|Cambridge University Press|Yasheng Huang|9780521898102
+|*The Myth of Chinese Capitalism: The Worker, the Factory, and the Future of the World*|St. Martin's Press|Dexter Roberts|9781250089373
 |*The Art of Political Control in China*|Cambridge University Press|Daniel C. Mattingly|9781108485937
 |*China's Gilded Age: The Paradox of Economic Boom and Vast Corruption*|Cambridge University Press|Yuen Yuen Ang（洪源遠）|9781108478601
+|*We Have Been Harmonized: Life in China's Surveillance State*|Custom House|Kai Strittmatter|9780063027299
 |中國贏了嗎？：挑戰美國的強權領導（*Has China Won? The Chinese Challenge to American Primacy*）|天下文化|馬凱碩（Kishore Mahbubani）、譯者：林添貴|9789865535827
 |中國一把抓：你未必深知的108個問題（*China in the 21st Century：What Everyone Needs to Know*）|八旗文化|華志堅（Jeffrey N. Wasserstrom）；譯者：楊濤斌、蔣文豪|9789865842062
 |獨特又矛盾的經濟體：21世紀中國奇蹟背後的真相（*China’s Economy: What Everyone Needs to Know*）|聯經|葛藝豪（Arthur R. Kroeber）、譯者：吳國卿|9789570849813
@@ -615,7 +632,6 @@
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
 |失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances*）|CreateSpace Independent Publishing Platform, Safeguard Defenders (2nd ed.)|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)、9780999370681(2nd ed.)
 |*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
-|*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
 |[*Decentralized Authoritarianism in China: The Communist Party's Control of Local Elites in the Post-Mao Era*](https://book.douban.com/subject/3273903/)|Cambridge University Press|Pierre F. Landry|9780521882354
 |*Routledge Handbook of the Chinese Communist Party*|Routledge|Willy Wo-Lap Lam ed.|9781138684430
@@ -657,6 +673,8 @@
 |中國即將開戰：中國新軍國主義崛起|時報|楊中美|9789571357256
 |從極權統治到韌性威權：中國政治變遷之路（*Political Change in China: From Totalitarian Rule to Resilient Authoritarianism*）|巨流|黎安友（Andrew J. Nathan）、譯者：何大明|9789577322760
 |脆弱的強權：在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
+|*Factionalism in Chinese Communist Politics*|Cambridge University Press|Huang Jing|9780521622844
+|*Social Protest and Contentious Authoritarianism in China*|Cambridge University Press|Chen Xi|9781107014862
 |*The Chinese Mafia: Organized Crime, Corruption, and Extra-Legal Protection*|Oxford University Press|Peng Wang|9780198758402
 |*The Dictator's Dilemma: The Chinese Communist Party's Strategy for Survival*|Oxford University Press|Bruce J. Dickson|9780190228552
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
@@ -683,6 +701,7 @@
 |中國的第二個大陸：百萬中國移民如何在非洲投資新帝國（*China’s Second Continent: How a Million Migrants Are Building a New Empire in Africa*）|麥田|傅好文（Howard W. French）、譯者：李奧森|9789863441830
 |叛逆的巴爾幹：從希臘主義的解體到斯拉夫主義的崩潰（劉仲敬‧民族發明學講稿01）|八旗文化|劉仲敬|9789865524203
 |毛主義革命：二十世紀的中國與世界|田園書屋|程映虹|9623390718
+|*Xi Jinping: The Backlash*|Penguin|Richard McGregor|9781760893040
 |站上十三億人的頂端：習近平掌權之路（十三億分の一の男 中国皇帝を巡る人類最大の権力闘争）|聯經|峯村健司，譯者：蘆荻|9789570846829
 |習近平：共產中國最弱勢的領袖（習近平：共産中国最弱の帝王）|天下雜誌|矢板明夫、譯者：黃怡筠|9789862415979
 |守護靈靈言 習近平的辯解：為中國新冠肺炎所苦惱的領導人真實心聲(守護霊霊言　習近平の弁明：中国発・新型コロナウィルス蔓延に苦悩する指導者の本心)|台灣幸福科學出版有限公司|大川隆法、譯者：幸福科學經典翻譯小組|9789869844451
