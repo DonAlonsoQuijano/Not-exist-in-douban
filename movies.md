@@ -5,8 +5,9 @@
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|[爷爷和父亲](https://movie.douban.com/subject/35212344/)|2020|邓伟|[Father](https://www.imdb.com/title/tt13232158/)
 |返校（8集劇）|2020|蘇奕瑄、莊翔安、劉易|[Detention](https://www.ptsplus.tv/season/6eb09c1b-f7d0-4d3c-9b4e-bbbcca6422b1)
-|迷航|2019|李哲昕|[Lost Course](https://www.imdb.com/title/tt13236440/)
+|[迷航](https://movie.douban.com/subject/35258171/)|2019|李哲昕|[Lost Course](https://www.imdb.com/title/tt13236440/)
 |夜更|2020|郭臻|[Night Is Young](https://www.imdb.com/title/tt13237032/)
 |佔領立法會|2019|香港紀錄片工作者|[Taking back the Legislature](https://www.imdb.com/title/tt13236520/)
 |[V字仇杀队](http://movie.douban.com/subject/1309046/)|2005|James McTeigue（詹姆斯·麦克特格）|[V for Vendetta](https://www.imdb.com/title/tt0434409/)
